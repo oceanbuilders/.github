@@ -3,13 +3,13 @@
 Ocean Builders is located at Linton Bay Marina on the Caribbean Sea in Panama. We are the first company to build a floating home in the open ocean with plans to build many more. With a dedicated team of experts from around the world we are ready to build your new home of the future.
 </br>
 ## Useful resources to get you started:
-<a href="https://oceanbuilders.com/" target="blank">Ocean Builders web site</a>
+<a href="https://oceanbuilders.com/" target="_blank" rel="noopener noreferrer">Ocean Builders web site</a>
 </br>
-<a href="https://oceanbuilders.com/projects/" target="blank"> Ocean Builders list of projects</a>
+<a href="https://oceanbuilders.com/projects/" target="_blank" rel="noopener noreferrer"> Ocean Builders list of projects</a>
 </br>
-<a href="https://wiki.oceanbuilders.com/books/ocean-builders-contributors-guide" target="blank"> Ocean Builders Contributers Guide</a>
+<a href="https://wiki.oceanbuilders.com/books/ocean-builders-contributors-guide" target="_blank" rel="noopener noreferrer"> Ocean Builders Contributers Guide</a>
 </br>
-<a href="https://files.oceanbuilders.com/" target="blank"> Ocean Builders File Hub</a>
+<a href="https://files.oceanbuilders.com/" target="_blank" rel="noopener noreferrer"> Ocean Builders File Hub</a>
 </br>
 Roadmap coming soon!
 <!--
