@@ -7,6 +7,8 @@ Ocean Builders is located at Linton Bay Marina on the Caribbean Sea in Panama. W
 </br>
 <a href="https://oceanbuilders.com/projects/"> Ocean Builders list of projects</a>
 </br>
+<a href="https://oceanbuilders.com/blog/"> Ocean Builders blog</a>
+</br>
 <a href="https://wiki.oceanbuilders.com/books/ocean-builders-contributors-guide"> Ocean Builders Contributers Guide</a>
 </br>
 <a href="https://files.oceanbuilders.com/"> Ocean Builders File Hub</a>
